@@ -48,3 +48,12 @@ $ python civic.py
 - Jupii
 
 - Jarr-XD
+
+</code>
+</pre>
+<h1>Social Media</h1>
+<li><a href="https://www.facebook.com/jibran.ysi">Facebook</a></li>
+<li><a href="https://www.instagram.com/japon.xyz">Instagram</a></li>
+<h1>terima kasih kepada</h1>
+<li>XNXCODE TEAM</li>
+<h1>Note!</h1>
