@@ -20,34 +20,20 @@ $ git clone https://github.com/FENZOCONNER/civic
 
 $ cd civic
 
-$ python civic.py
+$ git pull
+
+$ python F.py
 
 
 # Thanks To My Friends
 
 - Jeeck X Nano
 
-- NdriiTzy
-
-- Fais Gans
-
-- Mbokey Bhizer
-
-- Denni
+- NdriiTzy/Yumasaa X Nano
 
 - Yogzz
 
 - Ang-Cyber
-
-- Ezaa
-
-- Ditzy
-
-- Danzz
-
-- Jupii
-
-- Jarr-XD
 
 </code>
 </pre>
